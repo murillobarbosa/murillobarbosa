@@ -23,8 +23,6 @@
  <a href = "mailto:murillonnbarbosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=130F40" target="_blank">
  <a href="https://www.linkedin.com/in/murillo-ribeiro-0577ab22a/"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=130F40"></a>
  </a>
- 
- 
   
 </div>
 
