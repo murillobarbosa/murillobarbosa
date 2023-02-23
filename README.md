@@ -24,4 +24,8 @@
     <img src="https://komarev.com/ghpvc/?username=sheraadams" />
   </a>
 </p>
+
+
 # murillobarbosa
+<br></div>
+ ![Snake animation](https://github.com/murillobarbosa/murillobarbosa/blob/output/github-contribution-grid-snake.svg)
